@@ -1,1 +1,1 @@
-# jp-digital
+#JP Digital
